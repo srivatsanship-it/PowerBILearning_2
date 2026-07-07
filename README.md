@@ -6,9 +6,9 @@ This project was built as part of a Data Analytics module covering **DAX calcula
 
 ## Dashboard Preview
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
-![Dashboard Details](images/dashboard-details.png)
+![Dashboard Details](dashboard-details.png)
 
 ## Dataset
 
